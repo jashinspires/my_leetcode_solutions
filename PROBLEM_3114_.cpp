@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 class Solution {
 public:
     std::string findLatestTime(std::string s) {
